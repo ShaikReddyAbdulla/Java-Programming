@@ -11,7 +11,7 @@ This repository contains Java programs from basic to advanced concepts.
 
 ## Tools Used
 - Java (JDK 8+)
-- IDE: Eclipse / IntelliJ IDEA
+- IDE:IntelliJ IDEA
 
 ## Author
 Shaik Reddy Abdulla
